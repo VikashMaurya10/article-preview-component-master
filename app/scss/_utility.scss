@@ -1,0 +1,39 @@
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.d-f {
+  display: flex;
+}
+
+.ai-c {
+  align-items: center;
+}
+
+.jc-c {
+  justify-items: center;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
+.jc-se {
+  justify-content: space-evenly;
+}
+
+.jc-sa {
+  justify-content: space-around;
+}
+
+.gap-0{
+  gap: 10px;
+}
+.gap-1{
+  gap: 15px;
+}
+.b{
+  border: 1px solid red;
+}
